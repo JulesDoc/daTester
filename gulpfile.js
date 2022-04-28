@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const gulp = require('gulp');
 const fs = require('fs');
 const del = require('del');

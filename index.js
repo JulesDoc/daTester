@@ -9,7 +9,7 @@ var methods = {
     evalHashtagFrequency: function (data) {
 
       var tags = {};
-
+      console.log('hello');
       data.forEach(function (media) {
         media.tags.forEach(function (tag) {
           if (tags[tag]) tags[tag]++;
