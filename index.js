@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 
 var _ = require('lodash');
 
